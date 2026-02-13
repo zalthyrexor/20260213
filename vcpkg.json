@@ -1,0 +1,8 @@
+{
+    "name": "sf-car-sim",
+    "version-string": "0.1.0",
+    "dependencies": [
+        "raylib",
+        "entt"
+    ]
+}
